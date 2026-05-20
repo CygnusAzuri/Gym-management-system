@@ -142,7 +142,7 @@ $current_time = date('h:i A');
 <!--Footer-part-->
 <div class="row-fluid">
   <div id="footer" class="span12"> 
-    <?= date("Y") ?> &copy; Developed By Mayank Jha
+    <?= date("Y") ?> &copy; Developed By Sakshi Jha
   </div>
 </div>
 
