@@ -37,7 +37,9 @@ Designed a relational schema with 6 entities:
 | Layer | Technology |
 |---|---|
 | Frontend | HTML, CSS, JavaScript |
-| Database Design | Relational schema (ERD) |
+| Backed | PHP |
+| Database | SQL |
+| Tool | Xampp |
 
 ---
 
